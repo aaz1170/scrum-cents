@@ -26,7 +26,8 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-remote-theme: "mmistakes/minimal-mistakes@4.24.0"
+#remote-theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-include-cache
