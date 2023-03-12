@@ -1,8 +1,4 @@
+- title: "Blog Posts"
+  url: /posts/
 - title: About
   url: /about/
-- title: Archive
-  url: /archive/
-- title: Jekyll
-  url: /jekyll/update/
-- title: Tags
-  url: /tags/
