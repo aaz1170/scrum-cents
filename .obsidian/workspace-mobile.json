@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bfcbf141d1347022",
+        "id": "a65f0d3920ed3016",
         "type": "tabs",
         "children": [
           {
-            "id": "f6445c134a5b84f3",
+            "id": "57321010a719fd45",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-03-12-nebenjob-po.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/2023-03-12-nebenjob-po.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/2023-03-12-nebenjob-po.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "_posts/2023-03-12-nebenjob-po.md"
-          }
+          "state": {}
         }
       },
       {
@@ -139,11 +131,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6445c134a5b84f3",
+  "active": "57321010a719fd45",
   "lastOpenFiles": [
     "_posts/2023-03-12-nebenjob-po.md",
-    "about.md",
+    "/index.md",
+    "/_data/navigation.yml",
     "index.md",
+    "/_posts/2023-03-12-nebenjob-po.md",
+    "about.md",
     "_site",
     "CNAME",
     "_site/jekyll",
@@ -153,7 +148,6 @@
     "404.html",
     "Gemfile",
     "_site/index.html",
-    "_config.yml",
     "_site/assets/minima-social-icons.svg"
   ]
 }

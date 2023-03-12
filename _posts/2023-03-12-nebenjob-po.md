@@ -3,7 +3,6 @@ layout: post
 title: 'Nebenjob: PO'
 ---
 Die Lage:
-
 - PO nur nebenher
 - Wertschöpfung wird nur bei dem Entwicklern gesehen
 - Aufgaben des PO werden nicht ernst genommen oder gar nicht verstanden
