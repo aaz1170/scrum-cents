@@ -1,31 +1,48 @@
 {
   "main": {
-    "id": "e3321b55c32fc817",
+    "id": "c3e96053bcc0ff88",
     "type": "split",
     "children": [
       {
-        "id": "a65f0d3920ed3016",
+        "id": "ad71badbcf7b3894",
         "type": "tabs",
         "children": [
           {
-            "id": "57321010a719fd45",
+            "id": "591c1d5469f15ba2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-03-12-nebenjob-po.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d6d0ca5b68cc02b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-12-13-Das Ergebnis von Schätzungen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "65aed9283c359c4d",
+    "id": "05120abb21ed7a5a",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "303860f83c7e0ddb",
+        "id": "7a3d792d50b0113f",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -35,7 +52,7 @@
         }
       },
       {
-        "id": "b24417302759068b",
+        "id": "514b3e10d82aaf94",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -50,7 +67,7 @@
         }
       },
       {
-        "id": "2c4147cf3df8bf6a",
+        "id": "e26fd415417d47b8",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -61,10 +78,10 @@
         }
       },
       {
-        "id": "6873ecaa6029d2a8",
+        "id": "32f0655a05252711",
         "type": "leaf",
         "state": {
-          "type": "starred",
+          "type": "bookmarks",
           "state": {}
         }
       }
@@ -72,15 +89,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "844a00708d8ed7ab",
+    "id": "ef90167c94dc6d68",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "49ebef8226332a80",
+        "id": "aeb0b20e9a31939b",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "_posts/2023-12-13-Das Ergebnis von Schätzungen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -92,26 +110,29 @@
         }
       },
       {
-        "id": "f17a57d232329606",
+        "id": "11d9c9583d5d4513",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "_posts/2023-12-13-Das Ergebnis von Schätzungen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "d206ab9f328beae0",
+        "id": "fca7dca75174cde1",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "_posts/2023-12-13-Das Ergebnis von Schätzungen.md"
+          }
         }
       },
       {
-        "id": "52088e017422304f",
+        "id": "fa4f39dcc0ae301d",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -123,31 +144,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "57321010a719fd45",
+  "active": "7a3d792d50b0113f",
   "lastOpenFiles": [
     "_posts/2023-03-12-nebenjob-po.md",
-    "/index.md",
-    "/_data/navigation.yml",
-    "index.md",
-    "/_posts/2023-03-12-nebenjob-po.md",
+    "_posts/2023-12-13-Das Ergebnis von Schätzungen.md",
+    "_posts/Unbenannt.md",
+    "Unbenannt.md",
+    "_posts",
     "about.md",
-    "_site",
-    "CNAME",
-    "_site/jekyll",
-    "_site/jekyll/update",
-    "Gemfile.lock",
-    "_site/404.html",
     "404.html",
-    "Gemfile",
+    "index.md",
+    "_data",
+    "_site/assets/main.css",
+    "_site/assets",
     "_site/index.html",
+    "_site/feed.xml",
+    "_site",
+    "_site/jekyll",
+    "_site/404.html",
     "_site/assets/minima-social-icons.svg"
   ]
 }
