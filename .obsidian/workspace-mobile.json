@@ -1,48 +1,35 @@
 {
   "main": {
-    "id": "c3e96053bcc0ff88",
+    "id": "32fd113157d87d4b",
     "type": "split",
     "children": [
       {
-        "id": "ad71badbcf7b3894",
+        "id": "e427aa7f36db96fc",
         "type": "tabs",
         "children": [
           {
-            "id": "591c1d5469f15ba2",
+            "id": "b78049bac75e49e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-03-12-nebenjob-po.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d6d0ca5b68cc02b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-12-13-Das Ergebnis von Schätzungen.md",
+                "file": "about.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "05120abb21ed7a5a",
+    "id": "c8eea9f4d87b7886",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "7a3d792d50b0113f",
+        "id": "62f94bd95de528de",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -52,7 +39,7 @@
         }
       },
       {
-        "id": "514b3e10d82aaf94",
+        "id": "a8235723f9f167a8",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -67,7 +54,7 @@
         }
       },
       {
-        "id": "e26fd415417d47b8",
+        "id": "3c06fbbfb9c14acd",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -78,7 +65,7 @@
         }
       },
       {
-        "id": "32f0655a05252711",
+        "id": "9c4625734f030b61",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -89,16 +76,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "ef90167c94dc6d68",
+    "id": "a3467c9054f89f62",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "aeb0b20e9a31939b",
+        "id": "6593341143bb639d",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/2023-12-13-Das Ergebnis von Schätzungen.md",
+            "file": "about.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,29 +97,29 @@
         }
       },
       {
-        "id": "11d9c9583d5d4513",
+        "id": "13c28222bd1e8b47",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/2023-12-13-Das Ergebnis von Schätzungen.md",
+            "file": "about.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "fca7dca75174cde1",
+        "id": "db64e0575a8e9b52",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/2023-12-13-Das Ergebnis von Schätzungen.md"
+            "file": "about.md"
           }
         }
       },
       {
-        "id": "fa4f39dcc0ae301d",
+        "id": "cd18a54e8670e8ce",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -152,24 +139,22 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "7a3d792d50b0113f",
+  "active": "b78049bac75e49e9",
   "lastOpenFiles": [
-    "_posts/2023-03-12-nebenjob-po.md",
-    "_posts/2023-12-13-Das Ergebnis von Schätzungen.md",
-    "_posts/Unbenannt.md",
-    "Unbenannt.md",
-    "_posts",
-    "about.md",
-    "404.html",
     "index.md",
-    "_data",
-    "_site/assets/main.css",
-    "_site/assets",
-    "_site/index.html",
+    "about.md",
+    "_drafts/2023-03-12-nebenjob-po.md",
+    "_drafts",
+    "_posts/2023-12-13-Das-Ergebnis-von-Schätzungen.md",
+    "_posts",
+    "Gemfile",
+    "_site/jekyll/update",
+    "_site/404.html",
+    "_site/jekyll",
     "_site/feed.xml",
     "_site",
-    "_site/jekyll",
-    "_site/404.html",
+    "_site/about",
+    "CNAME",
     "_site/assets/minima-social-icons.svg"
   ]
 }
